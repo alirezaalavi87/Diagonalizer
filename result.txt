@@ -1,0 +1,76 @@
+matrix name: Pauli_I
+Original Matrix:
+[[1 0]
+ [0 1]]
+
+Diagonal Matrix:
+[[1. 0.]
+ [0. 1.]]
+
+Eigenvectors:
+[[1. 0.]
+ [0. 1.]]
+
+Diagonalized Matrix:
+[[1. 0.]
+ [0. 1.]]
+
+================
+
+matrix name: Pauli_X
+Original Matrix:
+[[0 1]
+ [1 0]]
+
+Diagonal Matrix:
+[[ 1.  0.]
+ [ 0. -1.]]
+
+Eigenvectors:
+[[ 0.70710678 -0.70710678]
+ [ 0.70710678  0.70710678]]
+
+Diagonalized Matrix:
+[[ 1.00000000e+00 -1.01465364e-17]
+ [ 1.01465364e-17 -1.00000000e+00]]
+
+================
+
+matrix name: Pauli_Y
+Original Matrix:
+[[ 0.+0.j -0.-1.j]
+ [ 0.+1.j  0.+0.j]]
+
+Diagonal Matrix:
+[[ 1.+0.j  0.+0.j]
+ [ 0.+0.j -1.+0.j]]
+
+Eigenvectors:
+[[-0.        -0.70710678j  0.70710678+0.j        ]
+ [ 0.70710678+0.j          0.        -0.70710678j]]
+
+Diagonalized Matrix:
+[[ 1.+0.00000000e+00j  0.+0.00000000e+00j]
+ [ 0.-2.77555756e-16j -1.+0.00000000e+00j]]
+
+================
+
+matrix name: Pauli_Z
+Original Matrix:
+[[ 1  0]
+ [ 0 -1]]
+
+Diagonal Matrix:
+[[ 1.  0.]
+ [ 0. -1.]]
+
+Eigenvectors:
+[[1. 0.]
+ [0. 1.]]
+
+Diagonalized Matrix:
+[[ 1.  0.]
+ [ 0. -1.]]
+
+================
+
